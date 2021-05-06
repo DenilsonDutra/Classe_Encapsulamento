@@ -1,0 +1,16 @@
+C:\Curso_POO_C#\ws_vs2019\Classe_Encapsulamento\Classe_Encapsulamento\bin\Debug\net5.0\Classe_Encapsulamento.exe
+C:\Curso_POO_C#\ws_vs2019\Classe_Encapsulamento\Classe_Encapsulamento\bin\Debug\net5.0\Classe_Encapsulamento.deps.json
+C:\Curso_POO_C#\ws_vs2019\Classe_Encapsulamento\Classe_Encapsulamento\bin\Debug\net5.0\Classe_Encapsulamento.runtimeconfig.json
+C:\Curso_POO_C#\ws_vs2019\Classe_Encapsulamento\Classe_Encapsulamento\bin\Debug\net5.0\Classe_Encapsulamento.runtimeconfig.dev.json
+C:\Curso_POO_C#\ws_vs2019\Classe_Encapsulamento\Classe_Encapsulamento\bin\Debug\net5.0\Classe_Encapsulamento.dll
+C:\Curso_POO_C#\ws_vs2019\Classe_Encapsulamento\Classe_Encapsulamento\bin\Debug\net5.0\ref\Classe_Encapsulamento.dll
+C:\Curso_POO_C#\ws_vs2019\Classe_Encapsulamento\Classe_Encapsulamento\bin\Debug\net5.0\Classe_Encapsulamento.pdb
+C:\Curso_POO_C#\ws_vs2019\Classe_Encapsulamento\Classe_Encapsulamento\obj\Debug\net5.0\Classe_Encapsulamento.csprojAssemblyReference.cache
+C:\Curso_POO_C#\ws_vs2019\Classe_Encapsulamento\Classe_Encapsulamento\obj\Debug\net5.0\Classe_Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_POO_C#\ws_vs2019\Classe_Encapsulamento\Classe_Encapsulamento\obj\Debug\net5.0\Classe_Encapsulamento.AssemblyInfoInputs.cache
+C:\Curso_POO_C#\ws_vs2019\Classe_Encapsulamento\Classe_Encapsulamento\obj\Debug\net5.0\Classe_Encapsulamento.AssemblyInfo.cs
+C:\Curso_POO_C#\ws_vs2019\Classe_Encapsulamento\Classe_Encapsulamento\obj\Debug\net5.0\Classe_Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Curso_POO_C#\ws_vs2019\Classe_Encapsulamento\Classe_Encapsulamento\obj\Debug\net5.0\Classe_Encapsulamento.dll
+C:\Curso_POO_C#\ws_vs2019\Classe_Encapsulamento\Classe_Encapsulamento\obj\Debug\net5.0\ref\Classe_Encapsulamento.dll
+C:\Curso_POO_C#\ws_vs2019\Classe_Encapsulamento\Classe_Encapsulamento\obj\Debug\net5.0\Classe_Encapsulamento.pdb
+C:\Curso_POO_C#\ws_vs2019\Classe_Encapsulamento\Classe_Encapsulamento\obj\Debug\net5.0\Classe_Encapsulamento.genruntimeconfig.cache
